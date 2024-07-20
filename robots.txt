@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ivestudge.github.io/sitemap
+Sitemap: https://ivestudge.github.io/app/sitemap
+Sitemap: https://ivestudge.github.io/assets/sitemap
+Sitemap: https://ivestudge.github.io/css/sitemap
+Sitemap: https://ivestudge.github.io/includes/sitemap
+Sitemap: https://ivestudge.github.io/item/sitemap
+Sitemap: https://ivestudge.github.io/src/sitemap
